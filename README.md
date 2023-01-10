@@ -59,9 +59,10 @@ $ npm run test:cov
 ```
 
 ## Migration
-
+```bash
 $ npm run migrate
-
+```
 ## Seed
-
+```bash
 $ npm run seed
+```
